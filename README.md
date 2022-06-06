@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Alexandr
 
-## I'm a FrontEnd Developer
+## I'm a Junior FrontEnd Developer
 
 - 💪 I like to write code
 - 🎉 I love to play foorball
