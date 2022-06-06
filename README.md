@@ -3,7 +3,7 @@
 ## I'm a Junior FrontEnd Developer
 
 - 💪 I like to write code
-- 🎉 I love to play foorball
+- 🎉 I love to play football
 - 🥅 I am constantly learning new things
 
 ### Languages and Tools:
